@@ -1,0 +1,1 @@
+This app uses angularjs to enable users to register and log into data base. Authentication uses Firebase and AngularJS. Part one of an app which will enable users to log in and create edit and join meetings.
